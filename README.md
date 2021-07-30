@@ -1,5 +1,11 @@
 # README #
 
+AndroMoney Editor is a simple data manager for AndroMoney user data exported into CSV file.
+It is intended to ease entering multiple new entries and editing existing ones.
+
+AndroMoney is a mobile personal budget manager app for Android and iOS.
+The AndroMoney Editor app is in no way affiliated with the AndroMoney app itself.
+
 This README would normally document whatever steps are necessary to get your application up and running.
 
 ### What is this repository for? ###
