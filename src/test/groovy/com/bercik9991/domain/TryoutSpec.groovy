@@ -1,4 +1,4 @@
-package spock
+package com.bercik9991.domain
 
 import spock.lang.Specification
 
